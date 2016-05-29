@@ -22,5 +22,5 @@ C:\Users\YOUR_USERNAME\\.WebIde100\config\colors
 PHPStorm 2016
 In PhpStorm 2016.1 it will be ~\.PhpStorm2016.1\config\colors (where ~ is your user home folder - typically C:\Users\USERNAME).
 
-
+YOU NEED Consolas font, but you can change font name
 
