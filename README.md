@@ -3,7 +3,7 @@
 for Windows users:
 Add PHPStorm-Amazing.icl  file to this path:
 C:\Users\YOUR_USERNAME\\.#####\config\colors
-##### be on of these name:
+##### be one of these name:
 PHPStorm 5 => .WebIde50
 PHPStorm 6 => .WebIde60
 PHPStorm 7 => .WebIde70
