@@ -25,5 +25,5 @@ In PhpStorm 2016.1 it will be ~\.PhpStorm2016.1\config\colors (where ~ is your u
 YOU NEED Consolas font, but you can change font name
 
 SELECT Amazing from this address in phpStorm
-Setting -> Editor -> Colors & Fonts -> choose #Amazing Scheme and Apply.
+Setting -> Editor -> Colors & Fonts -> choose ##Amazing Scheme and Apply.
 
