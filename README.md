@@ -2,8 +2,8 @@
 
 for Windows users:
 Add Amazing.icl  file to this path:
-C:\Users\YOUR_USERNAME\\.#####\config\colors
-##### be one of these name:
+C:\Users\YOUR_USERNAME\PHPSTORMVER\config\colors
+PHPSTORMVER be one of these name:
 PHPStorm 5 => .WebIde50 
 
 PHPStorm 6 => .WebIde60 
